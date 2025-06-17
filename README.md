@@ -20,7 +20,9 @@ Our method introduces:
 You can find all the code and datasets in the shared file on Baidu Netdisk: UMIE
 Link: https://pan.baidu.com/s/1ixikheUMDZtM2JzPk3scBg
 Access Code: 4bkj
-Our work is contained in the file My_loramoe.zip.
+
+
+Our code is contained in the file My_loramoe.zip.
 
 
 ## 📄 Citation
