@@ -17,9 +17,11 @@ Our method introduces:
 
 ## 📅 Code Release
 
-The code is currently under final review and will be released soon.
+You can find all the code and datasets in the shared file on Baidu Netdisk: UMIE
+Link: https://pan.baidu.com/s/1ixikheUMDZtM2JzPk3scBg
+Access Code: 4bkj
+Our work is contained in the file My_loramoe.zip.
 
-> ✅ Please **watch** or **star** the repo to get notified once it's available.
 
 ## 📄 Citation
 
